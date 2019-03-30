@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 2.0
-github "LoopKit/dexcom-share-client-swift" ~> 1.0
+github "mitchellhenke/LoopKit" "mitchell-rsilvers129-fpu"
+github "mitchellhenke/dexcom-share-client-swift" "mitchell-rsilvers129-fpu"
